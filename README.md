@@ -31,6 +31,6 @@ Output_Screenshots<br>
      - ->It contains screenshots of output
 
 ## Author
-Name : MAHALAKSHMI R
-EMAIL: mahalakshmir239@gmail.com
-GITHUB: https://github.com/mahalakshmirm
+Name : MAHALAKSHMI R <br>
+EMAIL: mahalakshmir239@gmail.com <br>
+GITHUB: https://github.com/mahalakshmirm <br>
