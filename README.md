@@ -4,9 +4,9 @@
 It is a **Java-based console application** for managing hotel room reservations. It uses **MySQL** as the backend database via **JDBC**.
 
 ## Technologies
--**JAVA** <br>
--**JDBC** <br>
--**MYSQL**<br>
+* **JAVA** <br>
+* **JDBC** <br>
+* **MYSQL**<br>
 
 ## Features 
 1.Reserve a room
